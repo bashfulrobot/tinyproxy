@@ -14,3 +14,8 @@ This is a simple repo with a barebones config to run tinyproxy on my desktop to 
 ### Installing
 
 - install tinyproxy on Ubuntu `sudo apt install tinyproxy -y`
+
+## Default Configuration
+
+- The proxy server will listen on port 3128
+- The proxy server will listen on all addresses
